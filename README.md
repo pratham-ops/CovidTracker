@@ -1,5 +1,5 @@
 ## Covid Tracker
-**To view live website** [ enter link description here](git%20push%20-u%20origin%20master)
+**To view live website** [Covid Tracker](https://covid-tracker-api.netlify.app/)
 
 
 # Getting Started with Create React App
